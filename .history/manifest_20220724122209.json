@@ -1,0 +1,10 @@
+{
+  "name": "My extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  }
+}

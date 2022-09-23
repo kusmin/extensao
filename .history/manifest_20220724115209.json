@@ -1,0 +1,6 @@
+{
+  "name": "My extension",
+  "chrome_url_overrides": {
+    "newtab": "gmail.com"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "My extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "chrome_url_overrides": {
+    "newtab": "https://mail.google.com/mail/"
+  }
+}

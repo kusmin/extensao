@@ -1,0 +1,6 @@
+{
+  "name": "My extension",
+  "chrome_url_overrides": {
+    "PAGE_TO_OVERRIDE": "myPage.html"
+  }
+}
